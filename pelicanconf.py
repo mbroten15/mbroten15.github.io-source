@@ -9,9 +9,9 @@ import shutil
 AUTHOR = 'MITCHEL BROTEN'
 AUTHOR_SHORTENED = 'MITCHEL'
 AUTHOR_SUBTITLE = 'CONSTANT LEARNER, PETROLEUM ENGINEERING MAJOR'
-SITENAME = 'Pythonic Excursions'
-SITESUBTITLE = u'Stories about Python and Data Science'
-SITE_DESCRIPTION = 'Pythonic Excursions | Stories about Python and Data Science'
+SITENAME = 'Codengineering'
+SITESUBTITLE = u'Engineering and Statistics Tutorials'
+SITE_DESCRIPTION = 'Codengineering | Engineering and Statistics Tutorials'
 SITEURL = ''
 
 
@@ -89,7 +89,8 @@ CLAIM_GOOGLE = "ZsWFnpirKDgtbmwb1YRymDnSfvnUrpzCbf6LD1F_4TY"
 CLAIM_BING = "8FF1B025212A47B5B27CC47163A042F0"
 
 STATIC_PATHS = ['figures', 'images', 'downloads']
-DIRECT_TEMPLATES = (('index', 'archives', 'search', '404', 'about'))
+DIRECT_TEMPLATES = (('index', 'archives', 'search', '404', 'post'))
+PAGINATED_DIRECT_TEMPLATES = ['post']
 AUTHOR_SAVE_AS = ''
 USE_SHORTCUT_ICONS = True
 
@@ -117,7 +118,7 @@ RESUME_BUTTON_TEXT = 'Download CV'
 GITHUB_LINK = 'https://github.com/mbroten15'
 LINKEDIN_LINK = 'https://www.linkedin.com/in/mitchel-broten-6babb2128/'
 
-ABOUT_PAGE = 'about.html'
+POST_PAGE = 'post.html'
 ARCHIVE_PAGE = 'archives.html'
 
 # when developing offline, set it as False.
@@ -179,6 +180,12 @@ INCLUDE_PROGRESSBAR = True
 PROGRESSBAR_COLOR = '#24292e'
 
 # turn off typografy. otherwise the codes in Jupyter won't properly be highlighted
+
+
+#################################################################################################################
+# 404 page text
+HEADER_404 = 'Oops! Page not found'
+TEXT_404 = 'Sorry, but the page you requested was not found'
 
 ##################################################################################################################
 # code snippet for processing variables for auto-generation of Tech Stacks
