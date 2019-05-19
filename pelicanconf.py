@@ -107,12 +107,12 @@ ENABLE_MATHJAX = True
 # just store any meta files in /aegis-jupyter/static/, and you are good.
 PROFILE_PHOTO_FOOTER = "theme/img/me.jpg"
 PROFILE_PHOTO_ABOUT = "theme/img/me.jpg"
-INDEX_BANNER_IMAGE = "theme/img/index_banner_image.jpg"
+INDEX_BANNER_IMAGE = "theme/img/ut_football.jpg"
 LOGO_WITH_SUBTITLE = "theme/img/logo_with_subtitle.svg"  # logo created at "https://vectr.com/"
 
 # actually located in 'content/downloads/misc/'. Files in 'content/downloads' will be copied into 'output/downloads' to
 # auto-generate html href link.
-RESUME_PDF_LINK = 'downloads/misc/My resume.pdf'
+RESUME_PDF_LINK = 'downloads/misc/Resume Official-min.pdf'
 RESUME_BUTTON_TEXT = 'Download CV'
 
 GITHUB_LINK = 'https://github.com/mbroten15'
@@ -150,16 +150,16 @@ copy_jupyter_images_to_output(JUPYTER_IMAGES_DIR)
 ############################ Social Media Shares ############################
 
 # About Page
-ABOUT_PAGE_TITLE = 'About Eric'
-ABOUT_PAGE_DESCRIPTION = 'Pythonic Thinker & Solver, Petroleum Engineer'
+ABOUT_PAGE_TITLE = 'About Mitchel'
+ABOUT_PAGE_DESCRIPTION = 'Constant Learner, Petroleum Engineering Major'
 
 # Archive Page
 ARCHIVE_PAGE_TITLE = 'Archive'
-ARCHIVE_PAGE_DESCRIPTION = 'Full Archives of Pythonic Excursions'
+ARCHIVE_PAGE_DESCRIPTION = 'Full Archives of my blog posts'
 
 # landing(index) page description
-INDEX_PAGE_TITLE = 'Pythonic Excursions'
-INDEX_PAGE_DESCRIPTION = u'Stories About Python and Data Science | by Eric Kim'
+INDEX_PAGE_TITLE = 'Codengineering'
+INDEX_PAGE_DESCRIPTION = u'Engineering and Statics Tutorials | by Mitchel Broten'
 
 ### social media share debugger
 # Twitter: https://cards-dev.twitter.com/validator
@@ -168,13 +168,12 @@ INDEX_PAGE_DESCRIPTION = u'Stories About Python and Data Science | by Eric Kim'
 
 ##############################################################################
 
-FOOTER_TITLE = 'ABOUT ERIC'
+FOOTER_TITLE = 'ABOUT MITCHEL'
 TEXT_FOOTER = 'Senior undergraduate student at the Univeristy of Texas at Austin, Hildebrand Department of Petroleum ' \
-              'Engineering, the #1 petroleum engineering school in the US. I am a self-taught Python developer with ' \
-              'strong engineering & statistical background. I am good at creating clean, easy-to-read codes for data ' \
-              'analysis. I enjoy assisting my fellow engineers by developing accessible and reproducible codes.'
-EMAIL = 'aegis4048@gmail.com'
-COPYRIGHT_NOTICE = 'Handcrafted by me @2018'
+              'Engineering, the #1 petroleum engineering school in the US. I am interested in coding, statistics, ' \
+              'and engineering.'
+EMAIL = 'mitchelbroten@gmail.com'
+COPYRIGHT_NOTICE = 'Template Provided by <a href="https://aegis4048.github.io">Eric Kim</a> @2018'
 
 INCLUDE_PROGRESSBAR = True
 PROGRESSBAR_COLOR = '#24292e'
@@ -218,6 +217,7 @@ PORT = 8000
 # rm -rf .git/modules/pelican-aegis-jupyter-theme
 
 
+# when publishing online, use this command instead of pelican content
 # pelican content -s publishconf.py
 
 
