@@ -151,7 +151,7 @@ copy_jupyter_images_to_output(JUPYTER_IMAGES_DIR)
 
 # About Page
 ABOUT_PAGE_TITLE = 'About Mitchel'
-ABOUT_PAGE_DESCRIPTION = 'Constant Learner, Petroleum Engineering Major'
+ABOUT_PAGE_DESCRIPTION = 'Petroleum Engineering Major'
 
 # Archive Page
 ARCHIVE_PAGE_TITLE = 'Archive'
