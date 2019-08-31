@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="77ed3db4-0a51-4af3-8a04-cfb2f42be1e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Finance/npv-introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Finance/npv-introduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output" beforeDir="false" afterPath="$PROJECT_DIR$/output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/archives.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/archives.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/category/finance.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/finance.html" afterDir="false" />
@@ -18,10 +18,7 @@
       <change beforePath="$PROJECT_DIR$/output/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/tag/finance.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/finance.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/tipuesearch_content.js" beforeDir="false" afterPath="$PROJECT_DIR$/output/tipuesearch_content.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pelican-aegis-jupyter-theme/static/img/profile_photo_about.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pelican-aegis-jupyter-theme/static/img/profile_photo_footer.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pelican-aegis-jupyter-theme/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-aegis-jupyter-theme/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pelicanconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +33,9 @@
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -63,7 +60,7 @@
         <counts>
           <entry key="Python Console" value="15" />
           <entry key="css" value="65" />
-          <entry key="html" value="1104" />
+          <entry key="html" value="1105" />
           <entry key="md" value="358" />
           <entry key="py" value="1290" />
         </counts>
@@ -71,7 +68,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="65" />
-          <entry key="HTML" value="1104" />
+          <entry key="HTML" value="1105" />
           <entry key="Markdown" value="358" />
           <entry key="Python" value="1305" />
         </counts>
@@ -83,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pelicanconf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
+            <state relative-caret-position="3587">
               <caret line="215" column="38" selection-start-line="215" selection-start-column="38" selection-end-line="215" selection-end-column="38" />
             </state>
           </provider>
@@ -92,7 +89,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pelican-aegis-jupyter-theme/static/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30513">
+            <state relative-caret-position="1275">
               <caret line="75" column="9" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="9" />
             </state>
           </provider>
@@ -101,7 +98,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/publishconf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="272">
               <caret line="19" column="15" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="15" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -113,7 +110,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pelican-aegis-jupyter-theme/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-438">
+            <state relative-caret-position="1224">
               <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
             </state>
           </provider>
@@ -122,7 +119,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pelican-aegis-jupyter-theme/templates/article.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
+            <state relative-caret-position="1003">
               <caret line="59" column="75" selection-start-line="59" selection-start-column="75" selection-end-line="59" selection-end-column="75" />
             </state>
           </provider>
@@ -131,8 +128,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pelican-aegis-jupyter-theme/templates/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-656">
-              <caret line="30" column="58" lean-forward="true" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+            <state relative-caret-position="510">
+              <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
               <folding>
                 <element signature="e#1052#1123#0" expanded="true" />
                 <element signature="e#1278#1303#0" expanded="true" />
@@ -144,8 +141,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pelican-aegis-jupyter-theme/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="58" column="99" selection-start-line="58" selection-start-column="99" selection-end-line="58" selection-end-column="99" />
+            <state relative-caret-position="159">
+              <caret line="51" column="63" selection-start-line="51" selection-start-column="63" selection-end-line="51" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -154,7 +151,7 @@
         <entry file="file://$PROJECT_DIR$/content/Finance/npv-introduction.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="143">
+              <first_editor relative-caret-position="153">
                 <caret line="9" selection-start-line="9" selection-end-line="10" />
               </first_editor>
               <second_editor />
@@ -223,6 +220,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -281,7 +279,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -436,9 +433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -446,22 +440,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pelicanconf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3587">
+          <caret line="215" column="38" selection-start-line="215" selection-start-column="38" selection-end-line="215" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pelican-aegis-jupyter-theme/static/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30513">
+        <state relative-caret-position="1275">
           <caret line="75" column="9" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/publishconf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="272">
           <caret line="19" column="15" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="15" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -469,10 +467,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pelican-aegis-jupyter-theme/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pelican-aegis-jupyter-theme/templates/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="75" selection-start-line="59" selection-start-column="75" selection-end-line="59" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pelican-aegis-jupyter-theme/templates/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-656">
-          <caret line="30" column="58" lean-forward="true" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+        <state relative-caret-position="510">
+          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
           <folding>
             <element signature="e#1052#1123#0" expanded="true" />
             <element signature="e#1278#1303#0" expanded="true" />
@@ -480,41 +492,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pelican-aegis-jupyter-theme/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-438">
-          <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pelican-aegis-jupyter-theme/templates/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="59" column="75" selection-start-line="59" selection-start-column="75" selection-end-line="59" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/Finance/npv-introduction.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="143">
+          <first_editor relative-caret-position="153">
             <caret line="9" selection-start-line="9" selection-end-line="10" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pelicanconf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="215" column="38" selection-start-line="215" selection-start-column="38" selection-end-line="215" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pelican-aegis-jupyter-theme/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="58" column="99" selection-start-line="58" selection-start-column="99" selection-end-line="58" selection-end-column="99" />
+        <state relative-caret-position="159">
+          <caret line="51" column="63" selection-start-line="51" selection-start-column="63" selection-end-line="51" selection-end-column="63" />
         </state>
       </provider>
     </entry>
