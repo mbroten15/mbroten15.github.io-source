@@ -9,9 +9,9 @@ import shutil
 AUTHOR = 'MITCHEL BROTEN'
 AUTHOR_SHORTENED = 'MITCHEL'
 AUTHOR_SUBTITLE = 'CONSTANT LEARNER, PETROLEUM ENGINEERING MAJOR'
-SITENAME = 'Codengineering'
-SITESUBTITLE = u'Engineering and Statistics Tutorials'
-SITE_DESCRIPTION = 'Codengineering | Engineering and Statistics Tutorials'
+SITENAME = 'Stochastic Stories'
+SITESUBTITLE = u'Business, Staticstics, and Engineering Tutorials'
+SITE_DESCRIPTION = 'Stochastic Stories | Business, Statistics, and Engineering'
 SITEURL = ''
 
 
@@ -99,7 +99,7 @@ RELATED_POSTS_LABEL = 'Related Posts'       # articles that share common tags
 SHARE_POST_INTRO = 'Share This Post :'
 
 # SMO
-FEATURED_IMAGE = SITEURL + '/theme/img/logo_icon_background.png'
+FEATURED_IMAGE = SITEURL + '/theme/img/thumbnail.png'
 
 ENABLE_MATHJAX = True
 
@@ -108,12 +108,12 @@ ENABLE_MATHJAX = True
 PROFILE_PHOTO_FOOTER = "theme/img/me.jpg"
 PROFILE_PHOTO_ABOUT = "theme/img/me.jpg"
 INDEX_BANNER_IMAGE = "theme/img/ut_football.jpg"
-LOGO_WITH_SUBTITLE = "theme/img/logo_with_subtitle.svg"  # logo created at "https://vectr.com/"
+LOGO_WITH_SUBTITLE = "theme/img/banner_logo.svg"  # logo created at "https://vectr.com/"
 
 # actually located in 'content/downloads/misc/'. Files in 'content/downloads' will be copied into 'output/downloads' to
 # auto-generate html href link.
-RESUME_PDF_LINK = 'downloads/misc/Resume Official-min.pdf'
-RESUME_BUTTON_TEXT = 'Download CV'
+RESUME_PDF_LINK = 'downloads/misc/MitchelBrotenResume.pdf'
+RESUME_BUTTON_TEXT = 'Download Resume'
 
 GITHUB_LINK = 'https://github.com/mbroten15'
 LINKEDIN_LINK = 'https://www.linkedin.com/in/mitchel-broten-6babb2128/'
@@ -158,8 +158,8 @@ ARCHIVE_PAGE_TITLE = 'Archive'
 ARCHIVE_PAGE_DESCRIPTION = 'Full Archives of my blog posts'
 
 # landing(index) page description
-INDEX_PAGE_TITLE = 'Codengineering'
-INDEX_PAGE_DESCRIPTION = u'Engineering and Statics Tutorials | by Mitchel Broten'
+INDEX_PAGE_TITLE = 'Stochastic Stories'
+INDEX_PAGE_DESCRIPTION = u'Business, Statistics, and Engineering tutorials | by Mitchel Broten'
 
 ### social media share debugger
 # Twitter: https://cards-dev.twitter.com/validator
@@ -171,9 +171,9 @@ INDEX_PAGE_DESCRIPTION = u'Engineering and Statics Tutorials | by Mitchel Broten
 FOOTER_TITLE = 'ABOUT MITCHEL'
 TEXT_FOOTER = 'Senior undergraduate student at the Univeristy of Texas at Austin, Hildebrand Department of Petroleum ' \
               'Engineering, the #1 petroleum engineering school in the US. I am interested in coding, statistics, ' \
-              'and engineering.'
+              'business, and engineering.'
 EMAIL = 'mitchelbroten@gmail.com'
-COPYRIGHT_NOTICE = 'Template Provided by <a href="https://aegis4048.github.io">Eric Kim</a> @2018'
+COPYRIGHT_NOTICE = 'Template provided by <a href="https://aegis4048.github.io">Eric Kim</a> @2018'
 
 INCLUDE_PROGRESSBAR = True
 PROGRESSBAR_COLOR = '#24292e'
@@ -189,12 +189,12 @@ TEXT_404 = 'Sorry, but the page you requested was not found'
 ##################################################################################################################
 # code snippet for processing variables for auto-generation of Tech Stacks
 NUM_MAX_STAR = 5
-TECH_STACKS = {'Python': 5,
-               'Bootstrap': 4,
-               'HTML': 4,
-               'Django': 4,
-               'jQuery': 4,
-               'CSS': 4,
+TECH_STACKS = {'Python': 2,
+               'Bootstrap': 1,
+               'HTML': 1,
+               'Django': 0,
+               'jQuery': 0,
+               'CSS': 1,
                }
 
 
