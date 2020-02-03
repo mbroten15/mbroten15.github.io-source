@@ -1,76 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77ed3db4-0a51-4af3-8a04-cfb2f42be1e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output" beforeDir="false" afterPath="$PROJECT_DIR$/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/archives.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/archives.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/finance.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/finance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/statistics.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/statistics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/3d_wordvec_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/3d_wordvec_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/3d_wordvec_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/3d_wordvec_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/3d_wordvec_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/3d_wordvec_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/backward_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/backward_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/backward_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/backward_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/backward_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/backward_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/backward_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/backward_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/backward_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/backward_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/error_window.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/error_window.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/forward_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/forward_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/forward_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/forward_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/pdf_parse_demo.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/pdf_parse_demo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/prediction_error_sum.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/prediction_error_sum.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/tabula-webapp.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/tabula-webapp.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/tabula-webapp_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/tabula-webapp_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/tabula-webapp_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/tabula-webapp_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/tabula_instruction_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/tabula_instruction_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/tabula_instruction_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/tabula_instruction_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/template_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/template_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/template_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/template_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/vector_distance.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/vector_distance.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/word2vec_skip-gram.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/word2vec_skip-gram.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/wordcloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/jupyter_images/wordcloud.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/downloads/notebooks/variogram-intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/output/downloads/notebooks/variogram-intro.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/feeds/all-en.atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/feeds/all-en.atom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/feeds/all.atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/feeds/all.atom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/3d_wordvec_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/3d_wordvec_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/3d_wordvec_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/3d_wordvec_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/3d_wordvec_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/3d_wordvec_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/backward_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/backward_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/backward_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/backward_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/backward_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/backward_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/backward_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/backward_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/backward_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/backward_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/error_window.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/error_window.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/forward_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/forward_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/forward_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/forward_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/pdf_parse_demo.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/pdf_parse_demo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/prediction_error_sum.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/prediction_error_sum.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/tabula-webapp.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/tabula-webapp.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/tabula-webapp_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/tabula-webapp_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/tabula-webapp_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/tabula-webapp_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/tabula_instruction_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/tabula_instruction_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/tabula_instruction_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/tabula_instruction_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/template_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/template_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/template_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/template_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/vector_distance.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/vector_distance.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/word2vec_skip-gram.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/word2vec_skip-gram.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/jupyter_images/wordcloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/jupyter_images/wordcloud.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/npv-introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/npv-introduction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/finance.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/finance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/theme/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/output/theme/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/theme/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/output/theme/js/custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tipuesearch_content.js" beforeDir="false" afterPath="$PROJECT_DIR$/output/tipuesearch_content.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pelican-aegis-jupyter-theme/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-aegis-jupyter-theme/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pelican-aegis-jupyter-theme/static/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-aegis-jupyter-theme/static/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pelican-aegis-jupyter-theme/static/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-aegis-jupyter-theme/static/js/custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pelicanconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf.py" afterDir="false" />
-    </list>
+    <list default="true" id="77ed3db4-0a51-4af3-8a04-cfb2f42be1e2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pelicanconf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="114" column="53" selection-start-line="114" selection-start-column="53" selection-end-line="114" selection-end-column="53" />
+            <state relative-caret-position="153">
+              <caret line="112" column="52" selection-start-line="112" selection-start-column="52" selection-end-line="112" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -576,8 +507,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pelicanconf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="114" column="53" selection-start-line="114" selection-start-column="53" selection-end-line="114" selection-end-column="53" />
+        <state relative-caret-position="153">
+          <caret line="112" column="52" selection-start-line="112" selection-start-column="52" selection-end-line="112" selection-end-column="52" />
         </state>
       </provider>
     </entry>
