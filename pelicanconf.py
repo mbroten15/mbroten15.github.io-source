@@ -112,7 +112,7 @@ LOGO_WITH_SUBTITLE = "theme/img/banner_logo.svg"  # logo created at "https://vec
 
 # actually located in 'content/downloads/misc/'. Files in 'content/downloads' will be copied into 'output/downloads' to
 # auto-generate html href link.
-RESUME_PDF_LINK = 'downloads/misc/MitchelBrotenResume.pdf'
+RESUME_PDF_LINK = 'downloads/misc/MBroten_2020_resume.pdf'
 RESUME_BUTTON_TEXT = 'Download Resume'
 
 GITHUB_LINK = 'https://github.com/mbroten15'
